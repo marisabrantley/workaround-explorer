@@ -1,6 +1,6 @@
 # WorkAround Explorer Project
 
-In this Codecademy project, we were tasked with assisting WorkAround, a fictitious research organization that provides data on salary trends in the tech industry, to create a new application to make their data more easily viewable.
+In this Codecademy project, we were tasked with assisting WorkAround, a fictitious research organization that provides data on salary trends in the tech industry, create a new application to make their data more easily viewable.
 
 ## Objective
 

@@ -1,12 +1,21 @@
 html {
   height: 100%;
-  background-color: rgb(18, 24, 42);
+  background-color: rgb(32, 52, 113);
   color: white;
   font-family: "Helvetica", sans-serif;
 }
 
 body {
   height: 100%;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
 }
 
 main {
